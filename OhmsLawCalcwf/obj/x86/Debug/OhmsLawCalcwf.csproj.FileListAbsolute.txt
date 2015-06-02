@@ -1,0 +1,7 @@
+C:\Users\richard\documents\visual studio 2010\Projects\OhmsLawCalcwf\OhmsLawCalcwf\bin\Debug\OhmsLawCalcwf.exe
+C:\Users\richard\documents\visual studio 2010\Projects\OhmsLawCalcwf\OhmsLawCalcwf\bin\Debug\OhmsLawCalcwf.pdb
+C:\Users\richard\documents\visual studio 2010\Projects\OhmsLawCalcwf\OhmsLawCalcwf\obj\x86\Debug\OhmsLawCalcwf.Form1.resources
+C:\Users\richard\documents\visual studio 2010\Projects\OhmsLawCalcwf\OhmsLawCalcwf\obj\x86\Debug\OhmsLawCalcwf.Properties.Resources.resources
+C:\Users\richard\documents\visual studio 2010\Projects\OhmsLawCalcwf\OhmsLawCalcwf\obj\x86\Debug\OhmsLawCalcwf.csproj.GenerateResource.Cache
+C:\Users\richard\documents\visual studio 2010\Projects\OhmsLawCalcwf\OhmsLawCalcwf\obj\x86\Debug\OhmsLawCalcwf.exe
+C:\Users\richard\documents\visual studio 2010\Projects\OhmsLawCalcwf\OhmsLawCalcwf\obj\x86\Debug\OhmsLawCalcwf.pdb
